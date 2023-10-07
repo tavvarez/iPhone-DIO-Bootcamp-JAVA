@@ -2,11 +2,7 @@
 
 O projeto em questão é uma implementação simples de um sistema de simulação de um iPhone, com funcionalidades básicas como um reprodutor de música, um aparelho telefônico e um navegador na internet, conforme proposto pelo bootcamp.
 
-Conteúdo
-Estrutura de Diretórios
-Funcionalidades
-Como Rodar o Projeto
-Estrutura de Diretórios
+ 
 A estrutura de diretórios do projeto é organizada da seguinte forma:
 
 
