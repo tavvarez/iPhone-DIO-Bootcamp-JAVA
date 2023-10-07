@@ -61,7 +61,7 @@ Execute o programa principal:
 Isso iniciará a simulação do iPhone e você poderá interagir com as funcionalidades, como adicionar músicas favoritas e contatos, bem como listar contatos favoritos.
 
 ## DIAGRAMA DE CLASSES UML
-![UML](/home/tavvarez/DIO-BootCamp/desafio-iphone/Iphone/assets/img/ClassIphone.png)
+![UML](assets/img/ClassIphone.png)
 
 ## Contribuições
 Sinta-se à vontade para contribuir para este projeto aberto, fazendo pull requests, relatando problemas ou propondo melhorias. Seu feedback é bem-vindo!
