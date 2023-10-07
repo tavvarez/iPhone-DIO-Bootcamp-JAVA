@@ -43,7 +43,7 @@ Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema.
 
 Clone o repositório para o seu computador local: 
 
-`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`git clone[ https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/tavvarez/iPhone-DIO-Bootcamp-JAVA.git)`
 
 Navegue até o diretório do projeto e execute:
 
